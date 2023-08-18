@@ -18,4 +18,7 @@ Hardware-
   * HX7II (A to D)
   * PIR Sensor
   * Pi Camera
-  * Servo motor
+  * Servo motor<br>
+  <br>
+
+Demonstration Video - https://drive.google.com/file/d/1mk1yuKnvABXtVLoFT6rWJyByHhsm6Ai4/view
