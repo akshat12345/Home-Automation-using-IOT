@@ -10,7 +10,8 @@ Functionalities-
   5. Then pi-camera is also implemented in this model. Pi-camera serves two functions-
      * It can be turned on by using the GUI.
      * If someone presses the doorbell. Then a live feed link will be sent to the registered number only if the home is not in "secure" mode and gives the option to
-       open the door. <br> 
+       open the door. <br>
+     <br>
 Hardware-
   * Raspberry Pi 3 B+
   * Load Cell
