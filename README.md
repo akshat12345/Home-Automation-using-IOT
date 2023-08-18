@@ -1,5 +1,5 @@
 # Home-Automation-using-IOT
-This repository contains a demonstration video of a home automation model, in which Raspberry Pi is used for controlling different sensors and pi-cam.  
+This repository contains a demonstration video of a home automation model, in which Raspberry Pi is used for controlling different sensors and pi-cam. <br> 
 Functionalities-
   1. GUI of the project is developed by using a Python library "tkinter".
   2. Controlling the lights inside the house and the garage door using GUI.
@@ -10,7 +10,7 @@ Functionalities-
   5. Then pi-camera is also implemented in this model. Pi-camera serves two functions-
      * It can be turned on by using the GUI.
      * If someone presses the doorbell. Then a live feed link will be sent to the registered number only if the home is not in "secure" mode and gives the option to
-       open the door.  
+       open the door. <br> 
 Hardware-
   * Raspberry Pi 3 B+
   * Load Cell
